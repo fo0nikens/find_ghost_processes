@@ -1,5 +1,5 @@
 find_ghost_processes
-===============================================================================
+-------------------------------------------------------------------------------
 
 This is a Bash script which finds all running processes whose source files have
 been deleted (e.g.., a running script whose executable has been deleted). It
